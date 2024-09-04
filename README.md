@@ -56,4 +56,4 @@ This is a web application designed to help users track their study and reading t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/study-time-tracking-app.git
+   git clone https://github.com/yourusername/IqraTimer.git
